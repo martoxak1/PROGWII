@@ -1,5 +1,5 @@
-const nome = "Fabricio";
-const idade = 31;
+const nome = "Joao";
+const idade = 28;
 
 console.log(nome, " - ", idade);
 // console.log(typeof nome, " - ", typeof idade);
